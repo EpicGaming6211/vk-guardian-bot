@@ -1,0 +1,11 @@
+{
+  "autorole_id": 123456789012345678,
+  "verified_role_name": "Verified",
+  "welcome_channel": 123456789012345678,
+  "ticket_category": 123456789012345678,
+  "modlog_channel": 123456789012345678,
+  "minecraft": {
+    "ip": "play.example.com",
+    "port": 25565
+  }
+}
